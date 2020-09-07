@@ -1,1 +1,3 @@
+# Aplicativo de Chat em Tempo Real
+
 Este projeto é um aplicativo de chat em tempo real completo. No qual foi utilizado React no front-end, com a biblioteca de soquetes da web NodeJS + Socket.io no back-end.
